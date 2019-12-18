@@ -1,0 +1,3 @@
+-Mingw ile derlenmiştir ve derleme anında yada test sırasında bir hata ile karşılaşılmamıştır.
+-txt dosyalari hem derleme sirasinda hemde exe'dan calistirma sirasinda calismasi icin bin dosyasinin icine ve make file dosyasinin yanina koyulmustur.
+-Program 4 haneli verilerle 10000 düğüm eklenerek test edilmiştir.
